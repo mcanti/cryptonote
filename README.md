@@ -4,6 +4,8 @@ This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurren
 * CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
 * Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
 
+
+
 ## CryptoNote forking how-to
 
 ### Preparation
